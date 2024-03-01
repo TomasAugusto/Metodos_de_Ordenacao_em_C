@@ -1,0 +1,176 @@
+
+Testando com tamanho de vetor: 1000
+
+Aplicando SelectSort ao vetor de tamanho 1000
+Resultados para o vetor ordenado:
+Comparacoes: 499500, Movimentacoes: 0, Tempo de execucao: 0,016000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 499500, Movimentacoes: 1521, Tempo de execucao: 0,000000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 499500, Movimentacoes: 2976, Tempo de execucao: 0,000200 segundos
+
+Aplicando InsertSort ao vetor de tamanho 1000
+Resultados para o vetor ordenado:
+Comparacoes: 0, Movimentacoes: 0, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 499484, Movimentacoes: 500483, Tempo de execucao: 0,013000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 251857, Movimentacoes: 252849, Tempo de execucao: 0,006900 segundos
+
+Aplicando QuickSort ao vetor de tamanho 1000
+Resultados para o vetor ordenado:
+Comparacoes: 7491, Movimentacoes: 961, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 6744, Movimentacoes: 1460, Tempo de execucao: 0,000000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 5881, Movimentacoes: 2373, Tempo de execucao: 0,000000 segundos
+
+Aplicando MergeSort ao vetor de tamanho 1000
+Resultados para o vetor ordenado:
+Comparacoes: 5044, Movimentacoes: 9976, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 4939, Movimentacoes: 9976, Tempo de execucao: 0,000000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 8706, Movimentacoes: 9976, Tempo de execucao: 0,003300 segundos
+
+
+
+Testando com tamanho de vetor: 10000
+
+Aplicando SelectSort ao vetor de tamanho 10000
+Resultados para o vetor ordenado:
+Comparacoes: 49995000, Movimentacoes: 0, Tempo de execucao: 0,274000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 49995000, Movimentacoes: 16680, Tempo de execucao: 0,320000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 49995000, Movimentacoes: 29973, Tempo de execucao: 0,201000 segundos
+
+Aplicando InsertSort ao vetor de tamanho 10000
+Resultados para o vetor ordenado:
+Comparacoes: 0, Movimentacoes: 0, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 49993500, Movimentacoes: 50003499, Tempo de execucao: 1,050000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 24951646, Movimentacoes: 24961636, Tempo de execucao: 0,379000 segundos
+
+Aplicando QuickSort ao vetor de tamanho 10000
+Resultados para o vetor ordenado:
+Comparacoes: 112571, Movimentacoes: 8502, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 107648, Movimentacoes: 13500, Tempo de execucao: 0,000000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 80904, Movimentacoes: 31960, Tempo de execucao: 0,004500 segundos
+
+Aplicando MergeSort ao vetor de tamanho 10000
+Resultados para o vetor ordenado:
+Comparacoes: 69008, Movimentacoes: 133616, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 65512, Movimentacoes: 133616, Tempo de execucao: 0,017000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 120430, Movimentacoes: 133616, Tempo de execucao: 0,008500 segundos
+
+
+
+Testando com tamanho de vetor: 100000
+
+Aplicando SelectSort ao vetor de tamanho 100000
+Resultados para o vetor ordenado:
+Comparacoes: 4999950000, Movimentacoes: 0, Tempo de execucao: 30,778000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 4999950000, Movimentacoes: 200511, Tempo de execucao: 42,943000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 4999950000, Movimentacoes: 299954, Tempo de execucao: 38,036800 segundos
+
+Aplicando InsertSort ao vetor de tamanho 100000
+Resultados para o vetor ordenado:
+Comparacoes: 0, Movimentacoes: 0, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 4999797310, Movimentacoes: 4999897307, Tempo de execucao: 89,600000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 2498366891, Movimentacoes: 2498466879, Tempo de execucao: 49,144800 segundos
+
+Aplicando QuickSort ao vetor de tamanho 100000
+Resultados para o vetor ordenado:
+Comparacoes: 1741745, Movimentacoes: 112611, Tempo de execucao: 0,023000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 1611511, Movimentacoes: 162799, Tempo de execucao: 0,027000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 989036, Movimentacoes: 421790, Tempo de execucao: 0,035500 segundos
+
+Aplicando MergeSort ao vetor de tamanho 100000
+Resultados para o vetor ordenado:
+Comparacoes: 853904, Movimentacoes: 1668928, Tempo de execucao: 0,120000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 878203, Movimentacoes: 1668928, Tempo de execucao: 0,062000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 1536304, Movimentacoes: 1668928, Tempo de execucao: 0,096600 segundos
+
+
+
+Testando com tamanho de vetor: 200000
+
+Aplicando SelectSort ao vetor de tamanho 200000
+Resultados para o vetor ordenado:
+Comparacoes: 19999900000, Movimentacoes: 0, Tempo de execucao: 197,239000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 19999900000, Movimentacoes: 415605, Tempo de execucao: 216,650000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 19999900000, Movimentacoes: 599952, Tempo de execucao: 204,853200 segundos
+
+Aplicando InsertSort ao vetor de tamanho 200000
+Resultados para o vetor ordenado:
+Comparacoes: 0, Movimentacoes: 0, Tempo de execucao: 0,000000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 19999287587, Movimentacoes: 19999487575, Tempo de execucao: 348,352000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 9999910913, Movimentacoes: 10000110895, Tempo de execucao: 167,134800 segundos
+
+Aplicando QuickSort ao vetor de tamanho 200000
+Resultados para o vetor ordenado:
+Comparacoes: 3302943, Movimentacoes: 279029, Tempo de execucao: 0,047000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 3127770, Movimentacoes: 379330, Tempo de execucao: 0,016000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 2032152, Movimentacoes: 922112, Tempo de execucao: 0,061100 segundos
+
+Aplicando MergeSort ao vetor de tamanho 200000
+Resultados para o vetor ordenado:
+Comparacoes: 1807808, Movimentacoes: 3537856, Tempo de execucao: 0,125000 segundos
+
+Resultados para o vetor inversamente ordenado:
+Comparacoes: 1904978, Movimentacoes: 3537856, Tempo de execucao: 0,297000 segundos
+
+Média para os 10 vetores aleatórios:
+Comparacoes: 3272831, Movimentacoes: 3537856, Tempo de execucao: 0,204800 segundos
+
+
